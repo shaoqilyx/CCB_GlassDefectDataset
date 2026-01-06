@@ -34,9 +34,10 @@ If you use this dataset in your research, please cite:
   year = {2026},
   publisher = {GitHub},
   journal = {GitHub Repository},
-  howpublished = {\url{https://github.com/shaoqilyx/CCB_GlassDefectDataset}}
+  howpublished = {https://github.com/shaoqilyx/CCB_GlassDefectDataset}
 }
 
 ## 5. Author & Contact
 - Author: shaoqilyx
+
 - Email: 99832201@qq.com
